@@ -1,0 +1,205 @@
+https://www.linkedin.com/posts/anita-s-779479217_virtusa-dataanalyst-mountainview-activity-6891500971235663872-eWws
+<div class="occludable-update ember-view" id="ember729">
+<div class="feed-shared-update-v2 feed-shared-update-v2--minimal-padding full-height relative feed-shared-update-v2--e2e artdeco-card ember-view" data-urn="urn:li:activity:6881166050055061504" id="ember778"><div>
+<h2 class="visually-hidden">
+              Feed post
+          </h2>
+<div class="feed-shared-actor display-flex feed-shared-actor--with-control-menu">
+<!-- -->
+<a aria-label="View Ela V.’s profile" class="app-aware-link feed-shared-actor__container-link relative display-flex flex-grow-1" data-control-id="vte22GSuRF+Ro5rg+sumUA==" data-control-name="actor_container" href="https://www.linkedin.com/in/ela-v-65633910a?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABt1N2IBTVrly56ASW9UH_JZBDJeCDLDJ_o" target="_self">
+<div class="feed-shared-actor__container absolute"></div>
+<div class="feed-shared-actor__image relative" data-control-id="vte22GSuRF+Ro5rg+sumUA==" data-control-name="actor_picture">
+<span class="js-feed-shared-actor__avatar" data-entity-hovercard-id="urn:li:fs_miniProfile:ACoAABt1N2IBTVrly56ASW9UH_JZBDJeCDLDJ_o">
+<div class="ivm-image-view-model feed-shared-actor__avatar">
+<div class="ivm-view-attr__img-wrapper ivm-view-attr__img-wrapper--use-img-tag display-flex">
+<!-- -->
+<div class="presence-entity presence-entity--size-3">
+<img alt="Ela V." class="presence-entity__image ivm-view-attr__img--centered EntityPhoto-circle-3 feed-shared-actor__avatar-image EntityPhoto-circle-3 lazy-image ember-view" id="ember779" loading="lazy" src="https://media-exp1.licdn.com/dms/image/D5635AQGS6iP6wmxLrw/profile-framedphoto-shrink_100_100/0/1636120794787?e=1640692800&amp;v=beta&amp;t=8CZv3iQBcQOGDIkU2uh38yroXDAlD5HS0MfxQiGHo60"/>
+<div class="presence-entity__indicator presence-entity__indicator--size-3 presence-indicator hidden presence-indicator--size-3">
+<span class="visually-hidden">
+      Status is offline
+      </span>
+</div>
+</div>
+</div>
+</div>
+</span>
+</div>
+<div class="feed-shared-actor__meta relative" data-control-id="vte22GSuRF+Ro5rg+sumUA==" data-control-name="actor">
+<span class="feed-shared-actor__title">
+<span class="feed-shared-actor__name t-14 t-bold hoverable-link-text t-black" data-entity-hovercard-id="urn:li:fs_miniProfile:ACoAABt1N2IBTVrly56ASW9UH_JZBDJeCDLDJ_o">
+<span dir="ltr">Ela V.</span>
+</span>
+<span class="feed-shared-actor__supplementary-actor-info t-14 t-normal ml1 t-black--light">
+             • 3rd+
+          </span>
+</span>
+<span class="feed-shared-actor__description t-12 t-normal t-black--light">
+            Talent Attraction Specialist - Senior Associate (UK&amp;I)
+        </span>
+<span class="feed-shared-actor__sub-description t-12 t-normal t-black--light">
+<span><span aria-hidden="true">2h • <li-icon aria-hidden="true" class="v-align-bottom" size="small" type="globe-icon"><svg class="mercado-match" data-supported-dps="16x16" fill="currentColor" focusable="false" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg">
+<path d="M8 1a7 7 0 107 7 7 7 0 00-7-7zM3 8a5 5 0 011-3l.55.55A1.5 1.5 0 015 6.62v1.07a.75.75 0 00.22.53l.56.56a.75.75 0 00.53.22H7v.69a.75.75 0 00.22.53l.56.56a.75.75 0 01.22.53V13a5 5 0 01-5-5zm6.24 4.83l2-2.46a.75.75 0 00.09-.8l-.58-1.16A.76.76 0 0010 8H7v-.19a.51.51 0 01.28-.45l.38-.19a.74.74 0 01.68 0L9 7.5l.38-.7a1 1 0 00.12-.48v-.85a.78.78 0 01.21-.53l1.07-1.09a5 5 0 01-1.54 9z"></path>
+</svg></li-icon> </span><span class="visually-hidden">2 hours ago</span></span>
+</span>
+</div>
+</a>
+<button aria-expanded="false" aria-label="See more about Ela V." class="entity-hovercard__a11y-trigger" data-entity-hovercard-id="urn:li:fs_miniProfile:ACoAABt1N2IBTVrly56ASW9UH_JZBDJeCDLDJ_o" data-entity-hovercard-trigger="click" type="button"></button>
+<button aria-label="Follow" aria-pressed="false" class="follow feed-shared-actor__follow-button feed-shared-update-v2__follow-button artdeco-button feed-shared-update-v2__follow-button--next-to-control-menu artdeco-button--tertiary" type="button">
+<li-icon aria-hidden="true" class="artdeco-button__icon" size="small" type="plus-icon"><svg class="mercado-match" data-supported-dps="16x16" fill="currentColor" focusable="false" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg">
+<path d="M14 9H9v5H7V9H2V7h5V2h2v5h5z"></path>
+</svg></li-icon>
+<span aria-hidden="true">Follow</span>
+</button>
+</div>
+<div class="feed-shared-control-menu feed-shared-update-v2__control-menu absolute text-align-right">
+<div class="artdeco-dropdown artdeco-dropdown--placement-bottom artdeco-dropdown--justification-right ember-view" id="ember781">
+<button aria-expanded="false" class="feed-shared-control-menu__trigger artdeco-button artdeco-button--tertiary artdeco-button--muted artdeco-button--1 artdeco-button--circle artdeco-dropdown__trigger artdeco-dropdown__trigger--placement-bottom ember-view" id="ember782" tabindex="0" type="button">
+<li-icon aria-label="Open control menu" class="artdeco-button__icon" role="img" type="ellipsis-horizontal-icon"><svg class="mercado-match" data-supported-dps="24x24" fill="currentColor" focusable="false" height="24" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+<path d="M14 12a2 2 0 11-2-2 2 2 0 012 2zM4 10a2 2 0 102 2 2 2 0 00-2-2zm16 0a2 2 0 102 2 2 2 0 00-2-2z"></path>
+</svg></li-icon>
+<!-- --></button>
+<div aria-hidden="true" class="feed-shared-control-menu__content artdeco-dropdown__content artdeco-dropdown--is-dropdown-element artdeco-dropdown__content--has-arrow artdeco-dropdown__content--arrow-right artdeco-dropdown__content--justification-right artdeco-dropdown__content--placement-bottom ember-view" id="ember783" tabindex="-1"><!-- --></div>
+</div>
+<!-- -->
+<!-- -->
+<!-- -->
+<!-- -->
+<!-- -->
+<!-- --></div>
+<!-- -->
+<!-- -->
+<!-- --> <div class="feed-shared-update-v2__description-wrapper" style="" tabindex="0">
+<div class="feed-shared-inline-show-more-text feed-shared-update-v2__description feed-shared-inline-show-more-text--minimal-padding" tabindex="-1">
+<div class="feed-shared-text relative feed-shared-update-v2__commentary" dir="ltr">
+<!-- -->
+<span class="break-words">
+<span><span dir="ltr">Power BI and Azure have extended many services to enterprises to make things more convenient than earlier. With the onset of further cognitive services, there will be more addition of features in Power BI. Prolay Ghosh, EY GDS Data and Analytics Leader shares his viewpoint on accelerating the analytical insight journey through Power BI. Read on to know more. <a data-attribute-index="0" href="https://www.linkedin.com/feed/hashtag/?keywords=eygds&amp;highlightedUpdateUrns=urn%3Ali%3Aactivity%3A6881166050055061504">#EYGDS</a> <a data-attribute-index="1" href="https://www.linkedin.com/feed/hashtag/?keywords=dataanalytics&amp;highlightedUpdateUrns=urn%3Ali%3Aactivity%3A6881166050055061504">#DataAnalytics</a> <a data-attribute-index="2" href="https://www.linkedin.com/feed/hashtag/?keywords=betterworkingworld&amp;highlightedUpdateUrns=urn%3Ali%3Aactivity%3A6881166050055061504">#BetterWorkingWorld</a> <a data-attribute-index="3" href="https://www.linkedin.com/feed/hashtag/?keywords=analytics&amp;highlightedUpdateUrns=urn%3Ali%3Aactivity%3A6881166050055061504">#Analytics</a> <a data-attribute-index="4" href="https://www.linkedin.com/feed/hashtag/?keywords=dataandanalytics&amp;highlightedUpdateUrns=urn%3Ali%3Aactivity%3A6881166050055061504">#DataAndAnalytics</a></span></span>
+</span>
+</div>
+<button aria-label="see more, visually reveals content which is already detected by screen readers" class="feed-shared-inline-show-more-text__see-more-less-toggle see-more t-14 t-black--light t-normal hoverable-link-text" role="button" type="button">…see more</button><!-- --></div>
+<!-- --></div>
+<article class="feed-shared-article feed-shared-update-v2__content">
+<!-- -->
+<div class="feed-shared-article--with-large-image">
+<div class="feed-shared-article__link-container">
+<a class="app-aware-link feed-shared-article__image-link tap-target" href="https://ey.smh.re/1jIl" target="_blank">
+<div class="ivm-image-view-model">
+<div class="ivm-view-attr__img-wrapper ivm-view-attr__img-wrapper--use-img-tag display-flex">
+<!-- --> <img alt="" class="ivm-view-attr__img--centered feed-shared-article__image lazy-image ember-view" height="600" id="ember784" loading="lazy" src="https://media-exp1.licdn.com/dms/image/sync/C5634AQHM0tXYucYbKw/ugc-proxy-shrink_1280_800/0/1640597832138?e=1640692800&amp;v=beta&amp;t=HoSOeYGsEPZj2F-KITf4Zs0IaqsOqrnz8WVohSD7Ypw" width="600"/>
+</div>
+</div>
+</a>
+</div>
+<div class="feed-shared-article__description-container">
+<div class="flex-grow-1">
+<!-- -->
+<!-- -->
+<a class="app-aware-link feed-shared-article__meta flex-grow-1 full-width tap-target display-flex justify-space-between align-items-flex-start" href="https://ey.smh.re/1jIl" target="_blank">
+<div class="display-flex">
+<div class="display-flex flex-column flex-grow-1">
+<div>
+<h2 class="feed-shared-article__title break-words t-14 t-bold t-black" dir="ltr">
+<span dir="ltr">Power BI Is Leading the Market as Part of Analytics &amp; Business Intelligence Platform</span>
+</h2>
+<h3 class="feed-shared-article__subtitle t-12 t-normal t-black--light" dir="ltr">
+                        ey.smh.re • 9 min read
+                    </h3>
+</div>
+<!-- --> </div>
+</div>
+<!-- --><!-- --> </a>
+</div>
+<!-- --> </div>
+</div>
+</article>
+<!-- -->
+<!-- -->
+<!-- -->
+<!-- -->
+<div class="social-details-social-activity update-v2-social-activity" id="ember785">
+<!-- --><!-- --> <div>
+<div class="ember-view" id="ember786"><!-- --></div>
+</div>
+<!-- -->
+<!-- -->
+<div class="feed-shared-social-actions feed-shared-social-action-bar social-detail-base-social-actions feed-shared-social-action-bar--full-width">
+<span class="reactions-react-button feed-shared-social-action-bar__action-button">
+<!-- -->
+<button aria-label="Like Ela V.’s post" aria-pressed="false" class="artdeco-button artdeco-button--muted artdeco-button--4 artdeco-button--tertiary ember-view social-actions-button react-button__trigger" id="ember787"><!-- -->
+<span class="artdeco-button__text">
+<div class="flex-wrap justify-center artdeco-button__text align-items-center">
+<li-icon aria-hidden="true" class="artdeco-button__icon" type="like-icon"><svg class="mercado-match" data-supported-dps="24x24" fill="currentColor" focusable="false" height="24" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+<path d="M19.46 11l-3.91-3.91a7 7 0 01-1.69-2.74l-.49-1.47A2.76 2.76 0 0010.76 1 2.75 2.75 0 008 3.74v1.12a9.19 9.19 0 00.46 2.85L8.89 9H4.12A2.12 2.12 0 002 11.12a2.16 2.16 0 00.92 1.76A2.11 2.11 0 002 14.62a2.14 2.14 0 001.28 2 2 2 0 00-.28 1 2.12 2.12 0 002 2.12v.14A2.12 2.12 0 007.12 22h7.49a8.08 8.08 0 003.58-.84l.31-.16H21V11zM19 19h-1l-.73.37a6.14 6.14 0 01-2.69.63H7.72a1 1 0 01-1-.72l-.25-.87-.85-.41A1 1 0 015 17l.17-1-.76-.74A1 1 0 014.27 14l.66-1.09-.73-1.1a.49.49 0 01.08-.7.48.48 0 01.34-.11h7.05l-1.31-3.92A7 7 0 0110 4.86V3.75a.77.77 0 01.75-.75.75.75 0 01.71.51L12 5a9 9 0 002.13 3.5l4.5 4.5H19z"></path>
+</svg></li-icon>
+<span aria-hidden="true" class="artdeco-button__text react-button__text">
+          Like
+        </span>
+</div>
+</span></button>
+<button aria-label="Open reactions menu" class="artdeco-button artdeco-button--muted artdeco-button--2 artdeco-button--tertiary ember-view reactions-menu__trigger" id="ember788"><!-- -->
+<span class="artdeco-button__text">
+<li-icon aria-hidden="true" class="caret-filled-down-icon" size="small" type="caret-filled-down-icon"><svg class="mercado-match" data-supported-dps="16x16" fill="currentColor" focusable="false" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg">
+<path d="M8 11L3 6h10z" fill-rule="evenodd"></path>
+</svg></li-icon>
+</span></button>
+</span>
+<span class="comment feed-shared-social-action-bar__action-button">
+<span class="artdeco-hoverable-trigger artdeco-hoverable-trigger--content-placed-top artdeco-hoverable-trigger--is-hoverable ember-view" id="ember789" tabindex="-1">
+<div>
+<button aria-describedby="artdeco-hoverable-artdeco-gen-93" aria-label="Comment on Ela V.’s post" class="artdeco-button artdeco-button--muted artdeco-button--4 artdeco-button--tertiary ember-view social-actions-button comment-button flex-wrap" id="ember790"> <li-icon aria-hidden="true" class="artdeco-button__icon" type="speech-bubble-icon"><svg class="mercado-match" data-supported-dps="24x24" fill="currentColor" focusable="false" height="24" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+<path d="M7 9h10v1H7zm0 4h7v-1H7zm16-2a6.78 6.78 0 01-2.84 5.61L12 22v-4H8A7 7 0 018 4h8a7 7 0 017 7zm-2 0a5 5 0 00-5-5H8a5 5 0 000 10h6v2.28L19 15a4.79 4.79 0 002-4z"></path>
+</svg></li-icon>
+<span class="artdeco-button__text">
+    Comment
+</span></button>
+</div>
+<div class="ember-view" id="artdeco-gen-93"><div class="ember-view" id="ember792"></div></div>
+</span>
+</span>
+<span class="share-reshare-button feed-shared-social-action-bar__action-button">
+<span class="artdeco-hoverable-trigger artdeco-hoverable-trigger--content-placed-top artdeco-hoverable-trigger--is-hoverable ember-view" id="ember793" tabindex="-1">
+<div>
+<button aria-describedby="artdeco-hoverable-artdeco-gen-94" aria-label="" class="artdeco-button artdeco-button--muted artdeco-button--4 artdeco-button--tertiary ember-view social-actions-button reshare-button flex-wrap" id="ember794"> <li-icon aria-hidden="true" class="artdeco-button__icon" type="share-linkedin-icon"><svg class="mercado-match" data-supported-dps="24x24" fill="currentColor" focusable="false" height="24" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+<path d="M23 12l-4.61 7H16l4-6H8a3.92 3.92 0 00-4 3.84V17a4 4 0 00.19 1.24L5.12 21H3l-.73-2.22A6.4 6.4 0 012 16.94 6 6 0 018 11h12l-4-6h2.39z"></path>
+</svg></li-icon>
+<span class="artdeco-button__text">
+    Share
+</span></button>
+</div>
+<div class="ember-view" id="artdeco-gen-94"><div class="ember-view" id="ember796"></div></div>
+</span>
+<div>
+<!-- -->
+</div>
+</span>
+<div class="feed-shared-social-action-bar__action-button">
+<span class="artdeco-hoverable-trigger artdeco-hoverable-trigger--content-placed-top artdeco-hoverable-trigger--is-hoverable ember-view" id="ember797" tabindex="-1">
+<div aria-describedby="artdeco-hoverable-artdeco-gen-95" class="send-privately-button">
+<button aria-label="Send in a private message" class="message-anywhere-button social-actions-button send-privately-button artdeco-button artdeco-button--4 artdeco-button--tertiary flex-wrap artdeco-button--muted" type="button">
+<li-icon aria-hidden="true" type="send-privately-icon"><svg class="mercado-match" data-supported-dps="24x24" fill="currentColor" focusable="false" height="24" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+<path d="M21 3L0 10l7.66 4.26L16 8l-6.26 8.34L14 24l7-21z"></path>
+</svg></li-icon>
+<span class="artdeco-button__text">Send</span>
+</button>
+</div>
+<div class="ember-view" id="artdeco-gen-95"><div class="ember-view" id="ember799"></div></div>
+</span>
+</div>
+</div>
+<!-- -->
+<!-- -->
+<div class="social-details-first-prompt-block">
+<button aria-label="Be the first to react: Power BI and Azure have extended many services to enterprises to make things more convenient than earlier. With the onset of further cognitive services, there will be more addition of features in Power BI. Prolay Ghosh, EY GDS Data and Analytics Leader shares his viewpoint on accelerating the analytical insight journey through Power BI. Read on to know more. #EYGDS #DataAnalytics #BetterWorkingWorld #Analytics #DataAndAnalytics" class="display-flex justify-space-between full-width align-items-center social-details-first-prompt-block__button" type="button">
+<p class="t-12 t-black t-normal">Be the first to react</p>
+</button>
+</div>
+<div class="feed-shared-update-v2__comments-container display-flex flex-column">
+<!-- --><!-- --> </div>
+</div>
+<!-- -->
+<!-- -->
+<!-- -->
+<!-- -->
+</div></div>
+</div>
